@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b3b7d0c1309951d6f482b91c71e3b37",
+    "revision": "6c62e61c6bf62d0169c6e0e70de9733f",
     "url": "/react-gh-pages/index.html"
   },
   {
-    "revision": "917dca458d89c499a0ad",
+    "revision": "7413c45f82a9d7fb83b4",
     "url": "/react-gh-pages/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "545b6af225edf66e49d2",
-    "url": "/react-gh-pages/static/css/main.40d474c1.chunk.css"
+    "revision": "c609dc1edc3271591f1f",
+    "url": "/react-gh-pages/static/css/main.6166521c.chunk.css"
   },
   {
-    "revision": "917dca458d89c499a0ad",
-    "url": "/react-gh-pages/static/js/2.453013e6.chunk.js"
+    "revision": "7413c45f82a9d7fb83b4",
+    "url": "/react-gh-pages/static/js/2.f63f9f1c.chunk.js"
   },
   {
-    "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-gh-pages/static/js/2.453013e6.chunk.js.LICENSE.txt"
+    "revision": "d2966845b94a3318bf32eecc7af8015d",
+    "url": "/react-gh-pages/static/js/2.f63f9f1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "545b6af225edf66e49d2",
-    "url": "/react-gh-pages/static/js/main.e90e8b8b.chunk.js"
+    "revision": "c609dc1edc3271591f1f",
+    "url": "/react-gh-pages/static/js/main.8f6aa2de.chunk.js"
   },
   {
     "revision": "59ec64b802b374c14fdf",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "a1daf3ac5f0dbf902c8673e8f135079f",
+    "url": "/react-gh-pages/static/media/usc_games.a1daf3ac.png"
   }
 ]);
