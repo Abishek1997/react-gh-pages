@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f901c138.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.0b6e50e5.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.0b6e50e5.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.9b19e6ee.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.21cb06dd.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.21cb06dd.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.73211806.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.73211806.js.map",
     "static/css/2.7ad897a5.chunk.css": "/react-gh-pages/static/css/2.7ad897a5.chunk.css",
-    "static/js/2.de3f93a0.chunk.js": "/react-gh-pages/static/js/2.de3f93a0.chunk.js",
-    "static/js/2.de3f93a0.chunk.js.map": "/react-gh-pages/static/js/2.de3f93a0.chunk.js.map",
+    "static/js/2.ec061f62.chunk.js": "/react-gh-pages/static/js/2.ec061f62.chunk.js",
+    "static/js/2.ec061f62.chunk.js.map": "/react-gh-pages/static/js/2.ec061f62.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.ac9f111b3d63ef63f2f60f83727e2882.js": "/react-gh-pages/precache-manifest.ac9f111b3d63ef63f2f60f83727e2882.js",
+    "precache-manifest.789985a8f7aa0b6184d83cfe833c994c.js": "/react-gh-pages/precache-manifest.789985a8f7aa0b6184d83cfe833c994c.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
     "static/css/2.7ad897a5.chunk.css.map": "/react-gh-pages/static/css/2.7ad897a5.chunk.css.map",
-    "static/css/main.f901c138.chunk.css.map": "/react-gh-pages/static/css/main.f901c138.chunk.css.map",
-    "static/js/2.de3f93a0.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.de3f93a0.chunk.js.LICENSE.txt",
-    "static/media/WIAC00.jpg": "/react-gh-pages/static/media/WIAC00.c4bea1dc.jpg",
-    "static/media/WIAC02.png": "/react-gh-pages/static/media/WIAC02.bbc1b259.png",
-    "static/media/WIAC03.jpg": "/react-gh-pages/static/media/WIAC03.320b9aff.jpg",
+    "static/css/main.9b19e6ee.chunk.css.map": "/react-gh-pages/static/css/main.9b19e6ee.chunk.css.map",
+    "static/js/2.ec061f62.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ec061f62.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/react-gh-pages/static/media/WIAC00.c4bea1dc.jpg",
+    "static/media/videos.css": "/react-gh-pages/static/media/WIAC02.bbc1b259.png",
+    "static/media/blog.css": "/react-gh-pages/static/media/WIAC03.320b9aff.jpg",
     "static/media/angryimg.png": "/react-gh-pages/static/media/angryimg.ed69c2fa.png",
     "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg",
     "static/media/usc_games.png": "/react-gh-pages/static/media/usc_games.a1daf3ac.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.73211806.js",
     "static/css/2.7ad897a5.chunk.css",
-    "static/js/2.de3f93a0.chunk.js",
-    "static/css/main.f901c138.chunk.css",
-    "static/js/main.0b6e50e5.chunk.js"
+    "static/js/2.ec061f62.chunk.js",
+    "static/css/main.9b19e6ee.chunk.css",
+    "static/js/main.21cb06dd.chunk.js"
   ]
 }
