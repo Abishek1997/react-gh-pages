@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.cd54e06e.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.108adf54.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.108adf54.chunk.js.map",
+    "main.js": "/react-gh-pages/static/js/main.13d35ec3.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.13d35ec3.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.73211806.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.73211806.js.map",
     "static/css/2.7ad897a5.chunk.css": "/react-gh-pages/static/css/2.7ad897a5.chunk.css",
-    "static/js/2.48717e33.chunk.js": "/react-gh-pages/static/js/2.48717e33.chunk.js",
-    "static/js/2.48717e33.chunk.js.map": "/react-gh-pages/static/js/2.48717e33.chunk.js.map",
+    "static/js/2.adfb1123.chunk.js": "/react-gh-pages/static/js/2.adfb1123.chunk.js",
+    "static/js/2.adfb1123.chunk.js.map": "/react-gh-pages/static/js/2.adfb1123.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.192c352532d2a827e691eb219a421ef5.js": "/react-gh-pages/precache-manifest.192c352532d2a827e691eb219a421ef5.js",
+    "precache-manifest.3fbae75ad9e32aba1a04701703fed50e.js": "/react-gh-pages/precache-manifest.3fbae75ad9e32aba1a04701703fed50e.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
     "static/css/2.7ad897a5.chunk.css.map": "/react-gh-pages/static/css/2.7ad897a5.chunk.css.map",
     "static/css/main.cd54e06e.chunk.css.map": "/react-gh-pages/static/css/main.cd54e06e.chunk.css.map",
-    "static/js/2.48717e33.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.48717e33.chunk.js.LICENSE.txt",
-    "static/media/about.css": "/react-gh-pages/static/media/WIAC00.c4bea1dc.jpg",
+    "static/js/2.adfb1123.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.adfb1123.chunk.js.LICENSE.txt",
+    "static/media/WIAC00.jpg": "/react-gh-pages/static/media/WIAC00.c4bea1dc.jpg",
     "static/media/videos.css": "/react-gh-pages/static/media/WIAC02.bbc1b259.png",
     "static/media/blog.css": "/react-gh-pages/static/media/WIAC03.320b9aff.jpg",
     "static/media/angryimg.png": "/react-gh-pages/static/media/angryimg.ed69c2fa.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.73211806.js",
     "static/css/2.7ad897a5.chunk.css",
-    "static/js/2.48717e33.chunk.js",
+    "static/js/2.adfb1123.chunk.js",
     "static/css/main.cd54e06e.chunk.css",
-    "static/js/main.108adf54.chunk.js"
+    "static/js/main.13d35ec3.chunk.js"
   ]
 }
