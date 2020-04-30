@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9e5359213c8fcfb02a34395cf644c27",
+    "revision": "73ab9d804d8df0b6ec99d319f6cb1c2b",
     "url": "/react-gh-pages/index.html"
   },
   {
-    "revision": "f42eaf3bb4e65cc1a12c",
+    "revision": "9b6b034661545a91d2a7",
     "url": "/react-gh-pages/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "455eed2e7d75703bfd19",
-    "url": "/react-gh-pages/static/css/main.ee249fa4.chunk.css"
+    "revision": "23f5f9214806735b1f48",
+    "url": "/react-gh-pages/static/css/main.68d16ad9.chunk.css"
   },
   {
-    "revision": "f42eaf3bb4e65cc1a12c",
-    "url": "/react-gh-pages/static/js/2.fead147d.chunk.js"
+    "revision": "9b6b034661545a91d2a7",
+    "url": "/react-gh-pages/static/js/2.50ed8ded.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/react-gh-pages/static/js/2.fead147d.chunk.js.LICENSE.txt"
+    "url": "/react-gh-pages/static/js/2.50ed8ded.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "455eed2e7d75703bfd19",
-    "url": "/react-gh-pages/static/js/main.10dd4bbb.chunk.js"
+    "revision": "23f5f9214806735b1f48",
+    "url": "/react-gh-pages/static/js/main.8ebaaf3e.chunk.js"
   },
   {
     "revision": "59ec64b802b374c14fdf",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c4bea1dc672b0e3686015e6b46f31749",
     "url": "/react-gh-pages/static/media/WIAC00.c4bea1dc.jpg"
-  },
-  {
-    "revision": "bbc1b259b3fedd636c5dba825613ccd3",
-    "url": "/react-gh-pages/static/media/WIAC02.bbc1b259.png"
   },
   {
     "revision": "320b9aff5287ae02a60982a27e260239",
