@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.68d16ad9.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.e7ca15fc.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.e7ca15fc.chunk.js.map",
+    "main.js": "/react-gh-pages/static/js/main.0aa7632b.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.0aa7632b.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.73211806.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.73211806.js.map",
     "static/css/2.7ad897a5.chunk.css": "/react-gh-pages/static/css/2.7ad897a5.chunk.css",
-    "static/js/2.50ed8ded.chunk.js": "/react-gh-pages/static/js/2.50ed8ded.chunk.js",
-    "static/js/2.50ed8ded.chunk.js.map": "/react-gh-pages/static/js/2.50ed8ded.chunk.js.map",
+    "static/js/2.ca0cfdc5.chunk.js": "/react-gh-pages/static/js/2.ca0cfdc5.chunk.js",
+    "static/js/2.ca0cfdc5.chunk.js.map": "/react-gh-pages/static/js/2.ca0cfdc5.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.fdcfb9db3d891a47f0969b10c3c18bf6.js": "/react-gh-pages/precache-manifest.fdcfb9db3d891a47f0969b10c3c18bf6.js",
+    "precache-manifest.532f9bfe9e851ad379cfed4b981f5a5f.js": "/react-gh-pages/precache-manifest.532f9bfe9e851ad379cfed4b981f5a5f.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
     "static/css/2.7ad897a5.chunk.css.map": "/react-gh-pages/static/css/2.7ad897a5.chunk.css.map",
     "static/css/main.68d16ad9.chunk.css.map": "/react-gh-pages/static/css/main.68d16ad9.chunk.css.map",
-    "static/js/2.50ed8ded.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.50ed8ded.chunk.js.LICENSE.txt",
+    "static/js/2.ca0cfdc5.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ca0cfdc5.chunk.js.LICENSE.txt",
     "static/media/WIAC00.jpg": "/react-gh-pages/static/media/WIAC00.c4bea1dc.jpg",
     "static/media/blog.css": "/react-gh-pages/static/media/WIAC03.320b9aff.jpg",
+    "static/media/WIAC_Trailer.mp4": "/react-gh-pages/static/media/WIAC_Trailer.40e4f1f9.mp4",
     "static/media/angryimg.png": "/react-gh-pages/static/media/angryimg.ed69c2fa.png",
     "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg",
     "static/media/oneplayerdemo.mp4": "/react-gh-pages/static/media/oneplayerdemo.00bcbd97.mp4",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.73211806.js",
     "static/css/2.7ad897a5.chunk.css",
-    "static/js/2.50ed8ded.chunk.js",
+    "static/js/2.ca0cfdc5.chunk.js",
     "static/css/main.68d16ad9.chunk.css",
-    "static/js/main.e7ca15fc.chunk.js"
+    "static/js/main.0aa7632b.chunk.js"
   ]
 }
